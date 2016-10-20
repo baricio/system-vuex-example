@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "supplier1",
+        "product": "product name"
+    },
+    {
+        "id": 2,
+        "name": "supplier2",
+        "product": "product name"
+    },
+    {
+        "id": 3,
+        "name": "supplier3",
+        "product": "product name"
+    },
+    {
+        "id": 4,
+        "name": "supplier4",
+        "product": "product name"
+    },
+    {
+        "id": 5,
+        "name": "supplier5",
+        "product": "product name"
+    },
+    {
+        "id": 6,
+        "name": "supplier6",
+        "product": "product name"
+    }
+]
