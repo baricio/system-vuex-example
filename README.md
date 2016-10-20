@@ -1,18 +1,18 @@
 # modulando
 
-> A Vue.js project
+> um exmplo de Vuex modulado
 
-## Build Setup
+## Para iniciar o projeto
 
 ``` bash
-# install dependencies
+# instala as dependencias do projeto
 npm install
 
-# serve with hot reload at localhost:8080
+# executa o projeto em localhost:8080
 npm run dev
 
-# build for production with minification
+# build prar colocar em producao com minification
 npm run build
 ```
 
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+Para saber mais sobre Vuex [veja a documentação](https://vuex.vuejs.org/en/index.html).
